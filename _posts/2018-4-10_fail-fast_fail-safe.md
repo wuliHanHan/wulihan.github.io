@@ -2,12 +2,10 @@
 layout:     post
 title:      "fail-fast和fail-safe"
 subtitle:   "java中的两种机制"
-date:       2018-04-10 12:00:00
 author:     "wynn"
 header-img: "img/post-bg-apple-event-2015.jpg"
 tags:
   - Web
-  - Java
 ---
 
 <div>
