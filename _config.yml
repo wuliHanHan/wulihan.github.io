@@ -5,7 +5,7 @@ header-img: img/home-bg.jpg
 email: wulihan1996@gmail.com
 description: "编程、探索、思考、人生 | 吴励寒，Java Programmer，Software Engineer| 这里是 @Wynn 的个人博客，与你一起发现更大的世界。"
 keyword: "吴励寒, Wynn吴励寒, Wynn, Java,Wynn Blog, 博客, 个人网站, 互联网, Web, Java, 后台, 分布式"
-url: "https://blog.wulihan.cn"              # your host, for absolute URL
+url: "https://blog.wulihan.top"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
